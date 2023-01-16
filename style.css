@@ -1,0 +1,33 @@
+
+div {width: 600px;
+    background-color: beige;
+    position:sticky
+}
+
+p {font-size: 1em;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    line-height: 1.2em;}
+
+h1 {font-size: 5em;
+font-family: "Helvetica Neue", "Arial", sans-serif;
+text-decoration: blink;}
+
+h2 {font-size: 4em;
+    font-family: "Helvetica Neue", "Arial", sans-serif}
+
+h3 {font-size: 3em;
+    font-family: "Helvetica Neue", "Arial", sans-serif}
+
+p {font-size: 1em;
+    font-family: "Helvetica Neue", "Arial", sans-serif}
+
+ol li {font-size: 1em;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    line-height: 1.2em;
+    margin-top: 1em;}
+
+ul li {font-size: 1em;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    line-height: 1em;
+    margin-top: 1em;}
+
