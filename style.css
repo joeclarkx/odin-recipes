@@ -1,11 +1,11 @@
 html {font-family: "Helvetica Neue", "Arial", sans-serif;
-    font-size: 18px;}
+    font-size: 62.5%;}
 
-li {font-size: 1em;
-    margin-top: 0em;}
-
-ol li {line-height: 1.6em;
+ol li {
     margin-top: 1em;}
+
+p, li {font-size: 1.8rem;
+}
 
 #hero-list {font-size: 5em;
     margin-top: 1em;}
@@ -13,10 +13,7 @@ ol li {line-height: 1.6em;
 div {width: 600px;
     background-color: rgb(255, 255, 255);
     position:sticky
-}
-
-p {font-size: 1em;
-    line-height: 1.6em;}
+    }
 
 h1 {font-size: 5em;}
 
@@ -26,8 +23,6 @@ h2 {font-size: 4em;
 h3 {font-size: 3em;
     }
 
-p {font-size: 1em;
-    }
 
 ol li {}
 
