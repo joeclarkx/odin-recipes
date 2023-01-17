@@ -1,4 +1,5 @@
-* {font-family: "Helvetica Neue", "Arial", sans-serif;}
+html {font-family: "Helvetica Neue", "Arial", sans-serif;
+    font-size: 18px;}
 
 li {font-size: 1em;
     margin-top: 0em;}
@@ -6,7 +7,7 @@ li {font-size: 1em;
 ol li {line-height: 1.6em;
     margin-top: 1em;}
 
-#herolist {font-size: 5em;
+#hero-list {font-size: 5em;
     margin-top: 1em;}
 
 div {width: 600px;
